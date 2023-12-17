@@ -1,0 +1,29 @@
+
+ /*comment your name goes here*/
+
+body
+{
+   /* background-color: black;*/
+  /* background-image: linear-gradient(black, yellow ); */
+  background-image: radial-gradient(red ,blue );
+   background-repeat: no-repeat;
+}
+
+
+p
+{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    color: black;
+    text-decoration: underline;
+} 
+nav
+{
+    background-color: yellow;
+    font-size:larger;
+    font-style:italic;
+}
+
